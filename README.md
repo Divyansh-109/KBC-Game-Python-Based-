@@ -7,5 +7,5 @@ Concept: Python Functions, Nested Lists, List Comprehension, Loops, inbuilt modu
 Features: Easy to understand, User Friendly, Can be modified for further extension.
 Requires Python 3
 
-Just have fun exlporing this and please suggest for any modifications or want to know about anything tell me...
+Just have fun exlporing this and please suggest for any modifications or want to know about anything contact me...
 
